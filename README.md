@@ -36,16 +36,18 @@ A simple and efficient **To-Do List** application built with **React**, using **
    git clone https://github.com/Pankajkumar12345678/To_Do_List_Assignment.git
    cd To_Do_List_Assignment
 
-
+```
 Install dependencies
 
 ```bash
 npm install
+```
 
 Start the app
 
 ```bash
 npm start
+```
 
 The app will run at http://localhost:3000/.
 
