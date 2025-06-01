@@ -54,7 +54,7 @@ The app will run at http://localhost:3000/.
 🧪 Testing Guide
 Follow these steps to test the functionality:
 
-Add Tasks
+1. Add Tasks
 
 Enter a task name in the input field.
 
@@ -62,35 +62,35 @@ Click the "Add" button.
 
 Task should appear in the list below.
 
-Validate Input
+2. Validate Input
 
 Try submitting empty input — an alert or validation message should appear.
 
-Mark Tasks as Complete/Pending
+3. Mark Tasks as Complete/Pending
 
 Use the checkbox next to the task.
 
 Completed tasks should show visual styling (e.g., strikethrough).
 
-Edit Tasks
+4. Edit Tasks
 
 Click the "Edit" icon.
 
 Update the text and save changes.
 
-Delete Tasks
+5. Delete Tasks
 
 Click the "Delete" icon to remove a task.
 
-Filter Tasks
+6. Filter Tasks
 
 Use filter options to view: All, Completed, or Pending.
 
-Sort Tasks
+7. Sort Tasks
 
 Use sorting controls (by ID or order of creation).
 
-LocalStorage Persistence
+8. LocalStorage Persistence
 
 Refresh the page — tasks should persist.
 
