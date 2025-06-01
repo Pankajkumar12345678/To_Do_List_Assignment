@@ -38,9 +38,13 @@ A simple and efficient **To-Do List** application built with **React**, using **
 
 
 Install dependencies
+
+```bash
 npm install
 
 Start the app
+
+```bash
 npm start
 
 The app will run at http://localhost:3000/.
@@ -50,41 +54,41 @@ Follow these steps to test the functionality:
 
 Add Tasks
 
-Enter a task name in the input field.
+   Enter a task name in the input field.
 
-Click the "Add" button.
+   Click the "Add" button.
 
-Task should appear in the list below.
+   Task should appear in the list below.
 
-Validate Input
+   Validate Input
 
-Try submitting empty input — an alert or validation message should appear.
+   Try submitting empty input — an alert or validation message should appear.
 
-Mark Tasks as Complete/Pending
+   Mark Tasks as Complete/Pending
 
-Use the checkbox next to the task.
+   Use the checkbox next to the task.
 
-Completed tasks should show visual styling (e.g., strikethrough).
+   Completed tasks should show visual styling (e.g., strikethrough).
 
 Edit Tasks
 
-Click the "Edit" icon.
+   Click the "Edit" icon.
 
-Update the text and save changes.
+   Update the text and save changes.
 
 Delete Tasks
 
-Click the "Delete" icon to remove a task.
+   Click the "Delete" icon to remove a task.
 
 Filter Tasks
 
-Use filter options to view: All, Completed, or Pending.
+   Use filter options to view: All, Completed, or Pending.
 
 Sort Tasks
 
-Use sorting controls (by ID or order of creation).
+   Use sorting controls (by ID or order of creation).
 
-LocalStorage Persistence
+   LocalStorage Persistence
 
 Refresh the page — tasks should persist.
 
