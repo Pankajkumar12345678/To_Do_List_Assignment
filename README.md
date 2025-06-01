@@ -56,43 +56,43 @@ Follow these steps to test the functionality:
 
 1. Add Tasks
 
-Enter a task name in the input field.
+      Enter a task name in the input field.
 
-Click the "Add" button.
+      Click the "Add" button.
 
-Task should appear in the list below.
+      Task should appear in the list below.
 
 2. Validate Input
 
-Try submitting empty input — an alert or validation message should appear.
+      Try submitting empty input — an alert or validation message should appear.
 
 3. Mark Tasks as Complete/Pending
 
-Use the checkbox next to the task.
+      Use the checkbox next to the task.
 
-Completed tasks should show visual styling (e.g., strikethrough).
+      Completed tasks should show visual styling (e.g., strikethrough).
 
 4. Edit Tasks
 
-Click the "Edit" icon.
+      Click the "Edit" icon.
 
-Update the text and save changes.
+      Update the text and save changes.
 
 5. Delete Tasks
 
-Click the "Delete" icon to remove a task.
+      Click the "Delete" icon to remove a task.
 
 6. Filter Tasks
 
-Use filter options to view: All, Completed, or Pending.
+      Use filter options to view: All, Completed, or Pending.
 
 7. Sort Tasks
 
-Use sorting controls (by ID or order of creation).
+      Use sorting controls (by ID or order of creation).
 
 8. LocalStorage Persistence
 
-Refresh the page — tasks should persist.
+      Refresh the page — tasks should persist.
 
 📁 Folder Structure
 
